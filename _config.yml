@@ -4,13 +4,13 @@ email: ysw991106
 url: https://Seongwon-developer.github.io
 description: "A blog and a portfolio"
 author: "author"
-title: "BlogFolio"
+title: "Seongwon-developer-BlogFolio"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
 
 # social
 github:
-  username: username
+  username: Seongwon-developer
 
-twitter:
-  username: username
+# twitter:
+#   username: username
